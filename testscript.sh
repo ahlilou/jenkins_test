@@ -1,3 +1,3 @@
 #/bin/bash 
-uname -a 
-hostnamectl
+uname -a ; hostnamectl 
+
